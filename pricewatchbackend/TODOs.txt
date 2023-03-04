@@ -1,0 +1,2 @@
+1. add photo to offer ------ done
+2. make a get request ------ done
